@@ -1,0 +1,35 @@
+/* style.css */
+body {
+background-color: #141437;
+font-family: Arial, sans-serif;
+color: white;
+display: flex;
+height: 100vh;
+align-items: center;
+justify-content: center;
+}
+
+.container {
+text-align: center;
+}
+
+#display {
+font-size: 48px;
+margin: 20px 0;
+}
+
+.buttons button {
+margin: 5px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border: none;
+border-radius: 5px;
+background-color: #4b7bec;
+color: white;
+}
+
+ul {
+list-style: none;
+padding: 0;
+}
