@@ -1,9 +1,8 @@
-# PRODIGY_WD_02 - Stopwatch Web Application
+#  Stopwatch Web Application
 
 ## 🔧 Task Description:
-This project is part of my Web Development Internship at Prodigy InfoTech.
 
-**Task 02** involves building a functional and user-friendly **Stopwatch Web Application** using:
+**Task ** involves building a functional and user-friendly **Stopwatch Web Application** using:
 
 - HTML (Structure)
 - CSS (Styling)
@@ -21,7 +20,6 @@ This project is part of my Web Development Internship at Prodigy InfoTech.
 - JavaScript 
 
 ## 📂 Project Structure:
-PRODIGY_WD_02/
 ├── index.html # Main HTML file (UI structure)
 ├── style.css # CSS file (for styling the stopwatch)
 ├── script.js # JavaScript file (timer functionality)
